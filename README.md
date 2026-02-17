@@ -106,6 +106,6 @@ Strategy performance is evaluated using cumulative returns compared to Buy & Hol
 
 ## 👨‍💻 Author
 
-Built by Rogith Goud  
-Mechanical Engineering @ IIITDM Chennai  
-Interested in Machine Learning & Quantitative Finance
+Built by Geddam Rutviz  
+B.Tech Computer Science @ IIITDM Kancheepuram  
+Interested in Full Stack Development, Machine Learning & Data Science
